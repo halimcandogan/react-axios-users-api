@@ -6,10 +6,7 @@ export default function Cardcontainer() {
     <div>
         
          <Card />
-         <Card />
-         <Card />
-         <Card />
-         <Card />
+         
   
     
        
